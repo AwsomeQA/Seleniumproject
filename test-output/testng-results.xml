@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17886" started-at="2023-04-03T11:52:27 IST" finished-at="2023-04-03T11:52:45 IST">
+    <groups>
+    </groups>
+    <test name="VWOTEST" duration-ms="17886" started-at="2023-04-03T11:52:27 IST" finished-at="2023-04-03T11:52:45 IST">
+      <class name="webtest.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:webtest.LoginTest@6ca8564a]" name="setup" is-config="true" duration-ms="4090" started-at="2023-04-03T11:52:27 IST" finished-at="2023-04-03T11:52:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testWithValidScenario()[pri:0, instance:webtest.LoginTest@6ca8564a]" name="testWithValidScenario" duration-ms="12340" started-at="2023-04-03T11:52:32 IST" finished-at="2023-04-03T11:52:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithValidScenario -->
+        <test-method status="PASS" signature="finish()[pri:0, instance:webtest.LoginTest@6ca8564a]" name="finish" is-config="true" duration-ms="1228" started-at="2023-04-03T11:52:44 IST" finished-at="2023-04-03T11:52:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish -->
+      </class> <!-- webtest.LoginTest -->
+    </test> <!-- VWOTEST -->
+  </suite> <!-- Suite -->
+</testng-results>
